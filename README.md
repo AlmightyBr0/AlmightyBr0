@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlmightyBr0 (Patrick Zong)
-- 🌱 I’m currently learning game design and cybersecurity
+- 🌱 I am a game development and design + cybersecurity double-major student at Purdue
 - 📫 You can reach me at 0731patrickz@gmail.com
 
 <!---
